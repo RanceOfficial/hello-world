@@ -1,2 +1,1 @@
-# hello-world
-hello github
+# 大家好，我是兰斯Official。
